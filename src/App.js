@@ -28,6 +28,8 @@ function App() {
           </Navbar>
         </div>
       </div>
+
+      Hello
       
       <Route exact path="/" component={Projects} />
       <Route path="/about" component={About} />
